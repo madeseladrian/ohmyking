@@ -6,7 +6,7 @@ Single-line prompt without extra information
 
 ## Installation
 
-For oh-my-zsh users, place into ~/.oh-my-zsh/custom/themes and change ZSH_THEME="ohmyking" in your ~/.zshrc file
+For oh-my-zsh users, place into ~/.oh-my-zsh/custom/themes the file ohmyking.zsh-theme and change to ZSH_THEME="ohmyking" in your ~/.zshrc file
 
 ## Contact
 
